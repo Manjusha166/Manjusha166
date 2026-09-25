@@ -1,66 +1,71 @@
 # 👋 Hi, I'm Manjusha!
 
-### 🧬 Computational Biologist | Bioinformatics | Structural Bioinformatics
+### 🧬 Sr. Bioinformatician | Machine Learning for Drug Discovery | Transcriptomics (RNA-seq & scRNA-seq) | Molecular Dynamics
 
-I am a Computational Biologist with an interest in **bioinformatics, structural biology, and computational drug discovery**.
+I'm a Senior Bioinformatician at **Growdea Technologies**, working at the intersection of **machine learning, transcriptomics, and computational drug discovery**.
 
-My work focuses on using computational approaches to understand biological systems, study protein–ligand interactions, and explore potential therapeutic molecules.
+I build **ML and QSAR models** to predict bioactivity and ADMET properties, analyze **bulk RNA-seq and single-cell RNA-seq** data to uncover differentially expressed genes, pathways and cell populations, and use **molecular docking and molecular dynamics simulations** to study protein–ligand interactions.
 
-I work with **molecular docking, molecular dynamics (MD) simulations, protein–ligand analysis, QSAR, and computational structural biology**.
-
-I am also expanding my skills in **NGS, genomics, Python, and AI/ML for biological applications**.
-
-This GitHub profile is where I document my learning, projects, workflows, scripts, and computational biology experiments.
+This GitHub profile is where I share my projects, workflows, scripts, and computational biology experiments.
 
 ---
 
-### 🔬 Areas of Interest
+### 🔬 Areas of Expertise
 
-* 🧬 Bioinformatics & Computational Biology
-* 🧪 Computational Drug Discovery
-* 🧩 Structural Bioinformatics
+* 🧠 Machine Learning & AI for Drug Discovery
+* 🧬 Transcriptomics: Bulk RNA-seq & scRNA-seq
+* 📊 QSAR, ADMET Prediction & Cheminformatics
 * 💊 Molecular Docking & Virtual Screening
-* ⚛️ Molecular Dynamics Simulations
-* 📊 QSAR & Cheminformatics
-* 🧠 AI/ML for Biology
-* 🧬 NGS & Genomics
+* ⚛️ Molecular Dynamics: All-atom, Coarse-grained (Martini) & Membrane Simulations
+* 🧩 Structural Bioinformatics & Protein Modeling
 
 ---
 
 ### 🛠️ Tools & Technologies
 
-**Programming:** Python | Bash | R
+**Programming:** Python | R | Bash | Git | Linux / HPC
 
-**Structural Biology:** GROMACS | AMBER | AutoDock Vina | AutoDock-GPU | PyMOL | VMD
+**Python Libraries:** NumPy | pandas | SciPy | Matplotlib | Seaborn | Biopython
 
-**Bioinformatics:** NGS Analysis | Sequence Analysis | Transcriptomics | BLAST
+**Machine Learning:** scikit-learn | XGBoost | LightGBM | TensorFlow / Keras | PyTorch | SHAP
 
-**Cheminformatics:** RDKit | PubChem | QSAR | Molecular Descriptors
+**Bulk RNA-seq:** FastQC | MultiQC | Trimmomatic | STAR | HISAT2 | Salmon | featureCounts | DESeq2 | edgeR | limma | clusterProfiler | GSEA
 
-**Computational Chemistry:** ORCA | DFT | MM/GBSA
+**Single-cell RNA-seq:** Seurat | Scanpy | PCA / t-SNE / UMAP | Clustering | Cell-type Annotation
+
+**Cheminformatics:** RDKit | DeepChem | PubChem | QSAR | Molecular Descriptors & Fingerprints
+
+**Structural Biology:** GROMACS | AMBER | AutoDock Vina | AutoDock-GPU | HDOCK | AlphaFold | SWISS-MODEL | PyMOL | VMD
+
+**Advanced Simulations:** REMD | Umbrella Sampling | FEP | MM/GBSA | Martini CG
+
+**Computational Chemistry:** ORCA | DFT | QM/MM
+
+**Bioinformatics:** NGS Analysis | Sequence Analysis | BLAST | Bioconductor | Cytoscape
 
 ---
 
 ### 📂 What You'll Find Here
 
-🔹 Bioinformatics projects
-🔹 Molecular docking workflows
-🔹 Molecular dynamics analysis
-🔹 Python & Bash scripts
-🔹 QSAR and cheminformatics projects
-🔹 NGS and genomics projects
-🔹 Learning projects and computational biology workflows
+* 🔹 ML & QSAR models for bioactivity and ADMET prediction
+* 🔹 Bulk RNA-seq and scRNA-seq analysis pipelines
+* 🔹 Molecular docking and virtual screening workflows
+* 🔹 Molecular dynamics setup and analysis scripts
+* 🔹 Python, R & Bash scripts for bioinformatics
 
 ---
 
-### 🌱 Currently Learning
+### 🌱 Currently Exploring
 
-* Advanced Python for Bioinformatics
-* NGS & Genomics
-* AI/ML for Computational Biology
-* GPU-accelerated Molecular Docking
-* Computational Drug Discovery
+* Graph Neural Networks for molecular property prediction
+* Deep learning for single-cell data
+* GPU-accelerated molecular docking
+* Integrating multi-omics with structure-based drug discovery
 
 ---
+
+### 📫 Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/manjushagovindh/)
 
 ⭐ *Building, learning, and sharing computational biology projects one step at a time.*
